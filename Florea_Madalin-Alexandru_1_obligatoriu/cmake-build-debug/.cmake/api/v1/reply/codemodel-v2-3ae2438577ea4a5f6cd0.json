@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Florea_Madalin_Alexandru_1_obligatoriu",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Florea_Madalin_Alexandru_1_obligatoriu1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Florea_Madalin_Alexandru_1_obligatoriu1-Debug-9b33f4f9fc5625d157b4.json",
+					"name" : "Florea_Madalin_Alexandru_1_obligatoriu1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Florea_Madalin_Alexandru_1_obligatoriu2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Florea_Madalin_Alexandru_1_obligatoriu2-Debug-4bb62e2f3aed0440cf18.json",
+					"name" : "Florea_Madalin_Alexandru_1_obligatoriu2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Florea_Madalin_Alexandru_1_obligatoriu3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Florea_Madalin_Alexandru_1_obligatoriu3-Debug-1a9aeee0f37220f85bd7.json",
+					"name" : "Florea_Madalin_Alexandru_1_obligatoriu3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Florea_Madalin_Alexandru_1_obligatoriu4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Florea_Madalin_Alexandru_1_obligatoriu4-Debug-0a7a387bf4e84297505f.json",
+					"name" : "Florea_Madalin_Alexandru_1_obligatoriu4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Florea_Madalin_Alexandru_1_obligatoriu5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Florea_Madalin_Alexandru_1_obligatoriu5-Debug-92c17a41f65843d097b5.json",
+					"name" : "Florea_Madalin_Alexandru_1_obligatoriu5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Madalin/Desktop/AF/Florea_Madalin-Alexandru_1_obligatoriu/cmake-build-debug",
+		"source" : "C:/Users/Madalin/Desktop/AF/Florea_Madalin-Alexandru_1_obligatoriu"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,7 @@
+C:/Users/Madalin/Desktop/AF/Florea_Madalin-Alexandru_1_obligatoriu/cmake-build-debug/CMakeFiles/Florea_Madalin_Alexandru_1_obligatoriu1.dir
+C:/Users/Madalin/Desktop/AF/Florea_Madalin-Alexandru_1_obligatoriu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Madalin/Desktop/AF/Florea_Madalin-Alexandru_1_obligatoriu/cmake-build-debug/CMakeFiles/Florea_Madalin_Alexandru_1_obligatoriu2.dir
+C:/Users/Madalin/Desktop/AF/Florea_Madalin-Alexandru_1_obligatoriu/cmake-build-debug/CMakeFiles/Florea_Madalin_Alexandru_1_obligatoriu3.dir
+C:/Users/Madalin/Desktop/AF/Florea_Madalin-Alexandru_1_obligatoriu/cmake-build-debug/CMakeFiles/Florea_Madalin_Alexandru_1_obligatoriu4.dir
+C:/Users/Madalin/Desktop/AF/Florea_Madalin-Alexandru_1_obligatoriu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Madalin/Desktop/AF/Florea_Madalin-Alexandru_1_obligatoriu/cmake-build-debug/CMakeFiles/Florea_Madalin_Alexandru_1_obligatoriu5.dir

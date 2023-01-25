@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.21)
+project(Florea_Madalin_Alexandru_1_optional)
+
+set(CMAKE_CXX_STANDARD 14)
+
+
+add_executable(Florea_Madalin_Alexandru_1_optional1 Florea_Madalin-Alexandru_1_optional_1.cpp)
+add_executable(Florea_Madalin_Alexandru_1_optional3 Florea_Madalin-Alexandru_1_optional_3.cpp)
+add_executable(Florea_Madalin_Alexandru_1_optional5 Florea_Madalin-Alexandru_1_optional_5.cpp)

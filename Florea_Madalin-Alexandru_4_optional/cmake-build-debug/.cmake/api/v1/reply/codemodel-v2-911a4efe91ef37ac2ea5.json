@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Florea_Madalin_Alexandru_4_optional",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Florea_Madalin_Alexandru_4_optional1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Florea_Madalin_Alexandru_4_optional1-Debug-a4ac5fb0b4b4e973dee1.json",
+					"name" : "Florea_Madalin_Alexandru_4_optional1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Madalin/Desktop/AF/Florea_Madalin-Alexandru_4_optional/cmake-build-debug",
+		"source" : "C:/Users/Madalin/Desktop/AF/Florea_Madalin-Alexandru_4_optional"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
