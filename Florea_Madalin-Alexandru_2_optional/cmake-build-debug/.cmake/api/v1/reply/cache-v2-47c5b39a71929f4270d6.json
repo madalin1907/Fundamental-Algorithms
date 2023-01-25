@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Madalin/Desktop/AF/Florea_Madalin-Alexandru_2_optional/cmake-build-debug"
+			"value" : "c:/Users/Madalin/Desktop/Fundamental-Algorithms/Florea_Madalin-Alexandru_2_optional/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Madalin/Desktop/AF/Florea_Madalin-Alexandru_2_optional"
+			"value" : "C:/Users/Madalin/Desktop/Fundamental-Algorithms/Florea_Madalin-Alexandru_2_optional"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Madalin/Desktop/AF/Florea_Madalin-Alexandru_2_optional/cmake-build-debug"
+			"value" : "C:/Users/Madalin/Desktop/Fundamental-Algorithms/Florea_Madalin-Alexandru_2_optional/cmake-build-debug"
 		},
 		{
 			"name" : "Florea_Madalin_Alexandru_2_optional_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Madalin/Desktop/AF/Florea_Madalin-Alexandru_2_optional"
+			"value" : "C:/Users/Madalin/Desktop/Fundamental-Algorithms/Florea_Madalin-Alexandru_2_optional"
 		}
 	],
 	"kind" : "cache",

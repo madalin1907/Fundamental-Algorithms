@@ -1,4 +1,4 @@
-// Se foloseste algoritmul lui Prim pentru a gasi arborele partial de cost minim, folosindu-ne
+// Se foloseste algoritmul lui Dijkstra pentru a gasi arborele partial de cost minim, folosindu-ne
 // de un min-heap. O muchie va fi adaugata la arborele partial de cost minim daca numarul maxim
 // de opriri inca nu a fost atins, altfel va fi ignorata.
 
