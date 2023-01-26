@@ -1,3 +1,5 @@
+// https://www.infoarena.ro/problema/transport2
+
 // Algoritmii folositi pentru rezolvarea acestei probleme sunt cautarea binara si BFS.
 
 // Folosind notiuni de grafuri, problema imi cere sa gasesc costul maxim al unui un care pleaca
