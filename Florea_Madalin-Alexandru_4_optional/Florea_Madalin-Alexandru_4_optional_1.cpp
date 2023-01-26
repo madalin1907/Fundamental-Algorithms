@@ -1,3 +1,17 @@
+// Algoritmii folositi pentru rezolvarea acestei probleme sunt cautarea binara si BFS.
+
+// Folosind notiuni de grafuri, problema imi cere sa gasesc costul maxim al unui un care pleaca
+// din nodul 1 si ajunge in nodul n.
+
+// Ideea rezolvarii este urmatoarea: pe masura ce construiesc listele de adiacenta ale nodurilor,
+// mi-am salvat separat intr-o variabila greutatea maxima admisa pe drumurile citite, aceasta
+// urmand sa fie capatul din dreapta la cautarea binara. Binar, eu caut cea mai mare greutate
+// care permite sa ajungem din nodul 1 in nodul n folosind BFS-ul. Pentru acest lucru,algoritmul de
+// BFS are o mica modificare, aceea ca pe langa conditia ca nodul vecin sa nu fie vizitat, acesta
+// sa aiba si o greutate admisa mai mare sau egala cu greutatea transmisa ca parametru la apelare.
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
